@@ -32,5 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajlogin&" alt="ankitrajlogin" /></p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ankitrajlogin?theme=dark&font=Baloo%202)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

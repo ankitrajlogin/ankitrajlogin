@@ -34,5 +34,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ankitrajlogin?theme=dark&font=Baloo%202)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

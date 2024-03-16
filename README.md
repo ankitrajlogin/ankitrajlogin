@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
-<h3 align="center">Passionate about coding and problem-solving, I've tackled over a thousand Data Structures and Algorithms questions in C++ across various platforms. My enthusiasm extends to competitive programming, where I thrive on challenging myself to solve complex problems efficiently. Beyond algorithmic mastery, I'm deeply immersed in the world of Machine Learning. With several projects under my belt, I've explored both traditional ML techniques and the cutting-edge realms of Deep Learning. My journey doesn't end there—I possess a strong foundation in front-end web development and I'm currently honing my skills in backend technologies. My diverse skill set allows me to navigate through different layers of software development seamlessly. Driven by a relentless curiosity and a love for learning, I'm always seeking new opportunities to expand my knowledge and contribute meaningfully to the world of technology.</h3>
+<h3 align="left">Passionate coder proficient in C++ and competitive programming with over 1000 Data Structures and Algorithms problem-solving experiences. Excited about Machine Learning and Deep Learning projects, with a solid background in front-end web development and currently exploring backend technologies. Always eager to learn and contribute to the tech community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrajlogin&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrajlogin" /> </p>
 
@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitrajlogin&show_icons=true&locale=en" alt="ankitrajlogin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajlogin&" alt="ankitrajlogin" /></p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+

@@ -32,8 +32,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajlogin&" alt="ankitrajlogin" /></p>
 
+## LeetCode Profile
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ankitrajlogin?theme=dark&font=Baloo%202)
 
 
+## CodeChef C++ Skill Test
 ![ankitrajlogin](https://github.com/user-attachments/assets/92326030-f82b-4147-a46f-6f862501d029)
 

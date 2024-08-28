@@ -39,3 +39,8 @@
 ## CodeChef C++ Skill Test
 ![ankitrajlogin](https://github.com/user-attachments/assets/92326030-f82b-4147-a46f-6f862501d029)
 
+## fun game
+<picture>
+<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+</picture>
+
